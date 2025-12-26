@@ -1,6 +1,3 @@
-
----
-
 # CRUD en Java con Swing y MySQL
 
 Aplicación de escritorio desarrollada en **Java** que implementa un **CRUD basico (Crear, Leer, Actualizar y Eliminar)** de usuarios, usando **Swing** para la interfaz gráfica y **MySQL** como base de datos.
@@ -79,5 +76,3 @@ Proyecto académico para practicar:
 ## Licencia
 
 Uso libre con fines educativos.
-
----
